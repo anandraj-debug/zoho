@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="16.026">
+    <testcase classname="BUSINESS APPLICTION" name="_2" time="9.482">
+        <system-out><![CDATA[Given user get into Home Page...............................................passed
+When user click on Signup button............................................passed
+Then user fill details "Anandraj" "anandraj123@mail.com" "54321" "9876543210" the Signup page.passed
+]]></system-out>
+    </testcase>
+    <testcase classname="BUSINESS APPLICTION" name="_3" time="5.773">
+        <system-out><![CDATA[Given user get into Home Page...............................................passed
+When user click on Signup button............................................passed
+Then user fill details "Raj" "Raj123@gamil.com" "0459847" "123345778909" the Signup page.passed
+]]></system-out>
+    </testcase>
+</testsuite>
